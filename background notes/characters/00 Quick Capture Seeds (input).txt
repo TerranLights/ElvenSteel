@@ -1,0 +1,273 @@
+ELVEN STEEL: CHARACTER INPUT (QUICK CAPTURE SEEDS)
+
+How to use this file
+- Copy the blank seed below, fill in whatever you have, and paste it into the INBOX at the bottom.
+- Short answers are fine. "TBD" and "you decide" are always valid.
+- The three fields that matter most are Name, Vision and Type. Everything else is optional.
+- For a character who already has a ready-made seed below, edit that block or paste a fuller copy into the INBOX.
+- Once a seed is processed into a character file, it is cleared from this file. This is a staging area, not storage.
+
+What happens to a seed
+- It is run through the character methodology in the Derivation Mechanisms repo:
+  Characters/Character_Development_Methodology/Pipeline/
+  (00a Initial Input, 00b Clarification, then stages 01-05).
+- The result is a filled character file in this folder (background notes/characters/) and an arc file in structure/character arcs/.
+- Enneagram design law: the type is the starting point, not the result. Every field gets adapted to the character, her world and her circumstances.
+- Undercurrent (optional): a second, weaker Enneagram profile under the main type.
+  - It can be any of the other eight types, with its own wing and instinctual subtype.
+  - How strongly it shows next to the main type varies from character to character; there is no fixed ratio.
+  - It is never required, and it can be added later. Leave it blank unless one genuinely shows.
+  - Full note: Derivation Mechanisms, Characters/Enneagram/Undercurrents.md.
+- Arc structure, set by Role and Type:
+  - major robot or major elf: the expanded (composite) structure
+  - minor elf: basic Save the Cat
+  - human: the Harmon Story Circle
+- Building a character is derivation work, so it happens in the 05:00-14:59 window. A seed can be added any time.
+
+
+====================================================================
+BLANK SEED (copy this)
+====================================================================
+
+Name (or working ID):
+Type: Robot / Elf / Human / Orc / Alien
+Role: major / minor
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+Enneagram: XwY (Self-Pres / Social / Sexual), or "you decide"
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Doll (if based on a real doll): model / manufacturer / photos folder
+Place of Origin: TBD (our Earth / the parallel Earth / the alien ship / elsewhere)
+Location (if different from origin): TBD
+Timeframe (backstory, before Elly comes down, during the series): TBD
+Language (Irish Gaelic / Elvish / both): TBD
+Relationship to Elly: TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+
+====================================================================
+READY-MADE PARTIAL SEEDS (known facts from README.md; TBD = open)
+====================================================================
+
+Name: E.Lo.Di.E. -> Elly -> Dælinor (elvish for "sword-wielding")
+Type: Robot (built by aliens)
+Role: major (the lead)
+Personal Vision: a lone mechanic looping her routine aboard a dead alien ship, who goes down to live among the elves she was modeled on, teaches herself the sword, and dies so her new family and tribe can reach space.
+Enneagram: TBD
+Doll: TBD
+Place of Origin: the destroyed alien spacecraft in orbit
+Location (if different from origin): the parallel Earth, among the elves
+Timeframe: the series
+Language: TBD
+Relationship to Elly: (herself)
+Brief Personality Summary: can seem cold and distant; doesn't know how to handle emotions or connections with living beings
+Brief Backstory Summary: built by aliens who were wiped out or fled shortly before she came online; the ship's mechanic (E.Lo.Di.E. = Elven Logistics & Diagnostics Engineer)
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+--------------------------------------------------------------------
+
+Name: Selandriel Lumorndaer
+Type: Elf (organic)
+Role: major
+Personal Vision: a peaceful, serene elf in a meaningful, long-term relationship with the Irishman.
+Enneagram: TBD
+Doll: "Princess Samantha" SED068 (photos in doll/Selandriel Lumorndaer/, local only)
+Place of Origin: our Earth (the elves escaped through a stargate)
+Location (if different from origin): the parallel Earth, the elves' lands
+Timeframe: the series
+Language: TBD
+Relationship to Elly: TBD
+Brief Personality Summary: peaceful and serene
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+--------------------------------------------------------------------
+
+Name: Rhylanna Aleanaear
+Type: Elf (organic)
+Role: major
+Personal Vision: a bright, bubbly elf who becomes Elly's best friend.
+Enneagram: TBD
+Doll: TBD
+Place of Origin: our Earth (the elves escaped through a stargate)
+Location (if different from origin): the parallel Earth, the elves' lands
+Timeframe: the series
+Language: TBD
+Relationship to Elly: best friend
+Brief Personality Summary: bright and bubbly
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+--------------------------------------------------------------------
+
+Name: The Irishman [name TBN]
+Type: Human
+Role: supporting
+Personal Vision: an Irishman with no sword or martial-arts training who is a gigantic weeb; he stumbled through one of the last stargates while hiking with a pocketbook copy of The Book of Five Rings.
+Enneagram: TBD
+Doll: n/a
+Place of Origin: Ireland, our Earth
+Location (if different from origin): the parallel Earth, with Selandriel
+Timeframe: the series
+Language: Irish Gaelic (TBD whether he speaks Elvish)
+Relationship to Elly: his book becomes her sword manual
+Brief Personality Summary: TBD
+Brief Backstory Summary: stumbled through a stargate while hiking in the hills of Ireland; now Selandriel's partner
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+--------------------------------------------------------------------
+
+Name: The elf blacksmith [name TBN]
+Type: Elf (organic)
+Role: minor
+Personal Vision: the smith who forges Elly's sword from a shard of the ship she crashed in.
+Enneagram: TBD
+Doll: TBD
+Place of Origin: our Earth (the elves escaped through a stargate)
+Location (if different from origin): the parallel Earth, the elves' lands
+Timeframe: the series
+Language: TBD
+Relationship to Elly: makes her sword
+Brief Personality Summary: TBD
+Brief Backstory Summary: TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+
+====================================================================
+INBOX (paste filled seeds below, one per character, separated by ---)
+====================================================================
+
+Name (or working ID):
+Type: Robot / Elf / Human / Orc / Alien
+Role: major / minor
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+Enneagram: XwY (Self-Pres / Social / Sexual), or "you decide"
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Doll (if based on a real doll): model / manufacturer / photos folder
+Place of Origin: TBD (our Earth / the parallel Earth / the alien ship / elsewhere)
+Location (if different from origin): TBD
+Timeframe (backstory, before Elly comes down, during the series): TBD
+Language (Irish Gaelic / Elvish / both): TBD
+Relationship to Elly: TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+---
+
+Name (or working ID):
+Type: Robot / Elf / Human / Orc / Alien
+Role: major / minor
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+Enneagram: XwY (Self-Pres / Social / Sexual), or "you decide"
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Doll (if based on a real doll): model / manufacturer / photos folder
+Place of Origin: TBD (our Earth / the parallel Earth / the alien ship / elsewhere)
+Location (if different from origin): TBD
+Timeframe (backstory, before Elly comes down, during the series): TBD
+Language (Irish Gaelic / Elvish / both): TBD
+Relationship to Elly: TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+---
+
+Name (or working ID):
+Type: Robot / Elf / Human / Orc / Alien
+Role: major / minor
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+Enneagram: XwY (Self-Pres / Social / Sexual), or "you decide"
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Doll (if based on a real doll): model / manufacturer / photos folder
+Place of Origin: TBD (our Earth / the parallel Earth / the alien ship / elsewhere)
+Location (if different from origin): TBD
+Timeframe (backstory, before Elly comes down, during the series): TBD
+Language (Irish Gaelic / Elvish / both): TBD
+Relationship to Elly: TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+---
+
+Name (or working ID):
+Type: Robot / Elf / Human / Orc / Alien
+Role: major / minor
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+Enneagram: XwY (Self-Pres / Social / Sexual), or "you decide"
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Doll (if based on a real doll): model / manufacturer / photos folder
+Place of Origin: TBD (our Earth / the parallel Earth / the alien ship / elsewhere)
+Location (if different from origin): TBD
+Timeframe (backstory, before Elly comes down, during the series): TBD
+Language (Irish Gaelic / Elvish / both): TBD
+Relationship to Elly: TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+---
+
+Name (or working ID):
+Type: Robot / Elf / Human / Orc / Alien
+Role: major / minor
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+Enneagram: XwY (Self-Pres / Social / Sexual), or "you decide"
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Doll (if based on a real doll): model / manufacturer / photos folder
+Place of Origin: TBD (our Earth / the parallel Earth / the alien ship / elsewhere)
+Location (if different from origin): TBD
+Timeframe (backstory, before Elly comes down, during the series): TBD
+Language (Irish Gaelic / Elvish / both): TBD
+Relationship to Elly: TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+---
+
+Name (or working ID):
+Type: Robot / Elf / Human / Orc / Alien
+Role: major / minor
+Personal Vision ("she's basically X but Y", a mood, a defining trait):
+
+Enneagram: XwY (Self-Pres / Social / Sexual), or "you decide"
+Undercurrent (if present): XwY (Self-Pres / Social / Sexual)
+Doll (if based on a real doll): model / manufacturer / photos folder
+Place of Origin: TBD (our Earth / the parallel Earth / the alien ship / elsewhere)
+Location (if different from origin): TBD
+Timeframe (backstory, before Elly comes down, during the series): TBD
+Language (Irish Gaelic / Elvish / both): TBD
+Relationship to Elly: TBD
+
+Brief Personality Summary (abbreviated): TBD
+Brief Backstory Summary (abbreviated): TBD
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): TBD
+
+---
