@@ -1,0 +1,13 @@
+# Episode scripts: the finished text stays local (same principle as every novel's text/)
+scripts/
+# Doll product photos (third-party; this repo is public)
+doll/
+# Production media
+videos/
+*.m4a
+*.mp3
+*.wav
+*.mp4
+# Third-party reference material: keep the folders, not the contents
+reference/*/*
+!reference/*/.gitkeep
